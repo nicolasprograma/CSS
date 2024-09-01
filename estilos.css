@@ -1,0 +1,9 @@
+body {
+  background-color: goldenrod;
+}
+h1 {
+  color: aquamarine;
+}
+main h1 {
+  color: blueviolet;
+}
